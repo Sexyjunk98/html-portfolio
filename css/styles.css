@@ -1,0 +1,23 @@
+
+body {
+   background-color: #5b02ff;
+}
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   height: 0%;
+   border-width: 12px;
+   width: 70%;
+}
+h1 {
+   background-color: #5b02ff;
+    color: lightcyan;
+}
+h2 {
+   background-color: #5b02ff; 
+   color: lightcyan;
+}
+a:hover {
+   color: red;
+}
